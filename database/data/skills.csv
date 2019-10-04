@@ -1,0 +1,13 @@
+name,version,description,skill_category
+Java,7 or earlier,Java 7 or earlier,Programming Languages
+Java,8,Java 8,Programming Languages
+Java,9,Java 9,Programming Languages
+Python,2.x,Python 2,Programming Languages
+Python,3.x,Python 3,Programming Languages
+Microservices,,Microservices,Technical Architectures
+Domain Driven Design,,Domain Driven Design,Methodologies
+Amazon Web Services,,AWS - General,Cloud Computing
+Amazon Web Services - Compute,,AWS Compute,Cloud Computing
+Amazon Web Services - Storage,,AWS Compute,Cloud Computing
+Amazon Web Services - Database,,AWS Database,Cloud Computing
+Requirements Analysis,,Requirements Analysis,SDLC
